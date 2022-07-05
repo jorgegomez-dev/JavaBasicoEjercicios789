@@ -1,0 +1,12 @@
+Id:0 | Name: Albert Einstein
+Id:1 | Name: Ayn Rand
+Id:2 | Name: Chris Cornell
+Id:3 | Name: Emilia Earhart
+Id:4 | Name: Hideo Kojima
+Id:5 | Name: Margaret Thatcher
+Id:6 | Name: Matt Groening
+Id:7 | Name: Milton Friedman
+Id:8 | Name: Pablo Picasso
+Id:9 | Name: Raymond Loewy
+Id:10 | Name: Stephen King
+Id:11 | Name: Walt Disney
